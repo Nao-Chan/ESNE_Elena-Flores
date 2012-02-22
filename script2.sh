@@ -1,1 +1,1 @@
-ps -edf
+ls -ial
