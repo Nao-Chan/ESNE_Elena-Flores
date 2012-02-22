@@ -1,1 +1,1 @@
-ps -ef
+lsusb
